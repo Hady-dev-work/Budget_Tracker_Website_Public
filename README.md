@@ -124,7 +124,7 @@ Developed from scratch with a full-stack web development process, secure login, 
 
 ---
 
-### **Figure 9**: Filled Dashboard
+### **Figure 9**: Informative Dashboard
 ![Screenshot 2024-05-06 022150](https://github.com/csci5117s24/project-2-html-heroes-2/assets/123435208/0355e12e-81e6-440d-876c-99e494f8f1c3)
 *A fully lived-in dashboard, showing your most recent transactions, budget progress, and a glance at summaries!*
 
