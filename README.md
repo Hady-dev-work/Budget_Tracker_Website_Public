@@ -142,7 +142,7 @@ Developed from scratch with a full-stack web development process, secure login, 
 
 ---
 
-### **Figure 12**: Look at Web App
+### **Figure 12**: Web App Interface
 ![Screenshot 2024-05-06 023638](https://github.com/csci5117s24/project-2-html-heroes-2/assets/123435208/92f0e711-caa1-40d9-a6fc-5e9d4a820f7b)
 *Web App in its own personalized window*
 
